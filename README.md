@@ -11,43 +11,48 @@
 </div>
 
 
-## 1.Introduction
+## Overview
+<details>
+## Introduction
+
+
+</details>
 
 
 
 
 
 
+## 💪Getting Started
+<h3> • Installation </h3>
+```
+git clone https://github.com/
+cd 
+```
 
 
-
-## 2.Get started
-
-- **Download dataset，following the structure below:**
-
-  ```typescript
-  -> CVsC
-  --> data
-  ----> attribute
-  ----> dataset
-  ------> AWA2
-  --------> Animals_with_Attributes2
-  ----------> JPEGImages
-  ----------> ...
-  ------> CUB
-  --------> CUB_200_2011
-  ----------> attributes
-  ----------> images
-  ----------> ...
-  ------> SUN
-  --------> images
-  ----------> a
-  ----------> ...
-  ------> xlsa17
-  --------> data
-  ----------> AWA2
-  ----------> ...
-  ----> w2v
-  --> extract_feature
-  ...
-  ```
+- **Download dataset，following the structure below**
+```
+CVsC/
+│   ├── attribute
+│   ├── dataset
+│   │   ├── AWA2
+│   │   │   ├── Animals_with_Attributes2
+│   │   │   │   ├── JPEGImages
+│   │   │   │   └── ...
+│   │   ├── CUB
+│   │   │   ├── CUB_200_2011
+│   │   │   │   ├── images
+│   │   │   │   └── ...
+│   │   ├── SUN
+│   │   │   ├── images
+│   │   │   └── ...
+│   │   ├── xlsa
+│   │   │   ├── data
+│   │   │   │   ├── AWA2
+│   │   │   │   └── ...
+│   ├── w2v
+│   └── ...
+├── extract_feature
+└── ...
+```
