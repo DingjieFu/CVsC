@@ -13,7 +13,7 @@
 
 ## 🤓Overview
 <details>
-  
+
 ### • Abstract
 
 <div align="center"> <img src="assets/motivation.png"/> </div>
@@ -74,7 +74,7 @@ CVsC/
 **Using extracted features**
 ```
 python extract_feature/extract_feature_map_ResNet_101.py --dataset CUB --inputsize 224 --batch_size 500
-python train.py --dataset CUB --backbone Resnet --inputsize 224 # after finishing extracting features
+python train.py --dataset CUB --backbone Resnet --inputsize 224 # after extracting features
 ```
 
 **End to end training**
