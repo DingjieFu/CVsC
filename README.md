@@ -13,14 +13,7 @@
 
 ## 🤓Overview
 <details>
-
-### • Motivation
-
-<div align="center"> <img src="assets/motivation.png"/> </div>
-
-### • Pipeline
-<div align="center"> <img src="assets/framework.png"/></div>
-
+  
 ### • Main Results
 | Dataset | Acc(CZSL) | U(GZSL) | S(GZSL) | H(GZSL) |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
