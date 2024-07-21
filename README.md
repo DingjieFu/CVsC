@@ -13,7 +13,24 @@
 
 ## 🤓Overview
 <details>
-  
+
+### • Abstract
+Zero-Shot learning (ZSL) correlates visual samples and shared semantic information to transfer knowledge from seen classes to unseen classes. 
+Existing methods typically establish visual-semantic correlation by aligning visual and semantic features, which are extracted from visual samples and semantic information, respectively. 
+However, instance-level images, owing to singular observation perspectives and diverse individuals, cannot exactly match the comprehensive semantic information defined at the class level. 
+Direct feature alignment imposes correlation between mismatched vision and semantics, resulting in spurious visual-semantic correlation. 
+To address this, we propose a novel method termed Causal Visualsemantic Correlation (CVsC) to learn substantive visual-semantic correlation for ZSL. 
+Specifically, we utilize a Visual Semantic Attention module to facilitate interaction between vision and semantics, thereby identifying attribute-related visual features. 
+Furthermore, we design a Conditional Correlation Loss to properly utilize semantic information as supervision for establishing visual-semantic correlation. 
+Moreover, we introduce counterfactual intervention applied to attribute-related visual features, and maximize their impact on semantic and target predictions to enhance substantive visual-semantic correlation. 
+Extensive experiments conducted on three benchmark datasets (i.e., CUB, SUN, and AWA2) demonstrate that our CVSC outperforms existing state-of-the-art methods.
+
+<div align="center"><img src="assets/motivation.png" /></div>
+
+### • Framework
+<div align="center"><img src="assets/framework.png" /></div>
+
+
 ### • Main Results
 | Dataset | Acc(CZSL) | U(GZSL) | S(GZSL) | H(GZSL) |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
