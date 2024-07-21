@@ -1,0 +1,1 @@
+Please download config.json and pytorch_model.bin (https://huggingface.co/google/vit-base-patch16-224) .
