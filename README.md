@@ -24,7 +24,7 @@
 
 
 ## 💪Getting Started
-<h3> • Installation </h3>
+<h3> • Requirements </h3>
 
 ```
 git clone git@github.com:DingjieFu/CVsC.git
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 <h3> • Data Preparation </h3>
 
-🌟 **Note: You can download datasets following the instructions in [./data](https://github.com/DingjieFu/CVsC/tree/main/data)**
+🌟 **Note: You can download the datasets by following the instructions in the '[dataset](https://github.com/DingjieFu/CVsC/tree/main/data/dataset)' directory**
 ```
 CVsC/
 │   ├── attribute
@@ -60,3 +60,19 @@ CVsC/
 ├── extract_feature
 └── ...
 ```
+<h3> • Model Training </h3>
+
+**Using extracted features**
+```
+python extract_feature/extract_feature_map_ResNet_101.py --dataset CUB --inputsize 224 --batch_size 500
+python train.py --dataset CUB --backbone Resnet --inputsize 224 # after finishing extracting features
+```
+
+**End to end training**
+```
+python train.py --dataset CUB --backbone Resnet --inputsize 224 --is_end2end
+```
+## 📑Acknowledgement
+The implementation is based on the repos: [DAZLE]([https://github.com/dyh127/RFNet](https://github.com/hbdat/cvpr20_DAZLE)), thanks for their excellent works.
+
+
