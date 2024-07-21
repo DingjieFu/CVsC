@@ -11,16 +11,24 @@
 </div>
 
 
-## Overview
+## 🤓Overview
 <details>
-## Introduction
+  
+### • Abstract
 
+<div align="center"> <img src="assets/motivation.png"/> </div>
+
+### • Pipeline
+<div align="center"> <img src="assets/framework.png"/></div>
+
+### • Main Results
+| Dataset | Acc(CZSL) | U(GZSL) | S(GZSL) | H(GZSL) |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| CUB | 79.1 | 72.4 | 78.4 | 75.3 |
+| SUN | 71.5 | 61.9 | 47.6 | 53.8 |
+| AWA2 | 73.1 | 68.0 | 87.0 | 76.4 |
 
 </details>
-
-
-
-
 
 
 ## 💪Getting Started
@@ -74,6 +82,4 @@ python train.py --dataset CUB --backbone Resnet --inputsize 224 # after finishin
 python train.py --dataset CUB --backbone Resnet --inputsize 224 --is_end2end
 ```
 ## 📑Acknowledgement
-The implementation is based on the repos: [DAZLE](https://github.com/hbdat/cvpr20_DAZLE), thanks for their excellent works.
-
-
+The implementation is based on the repo [DAZLE](https://github.com/hbdat/cvpr20_DAZLE), thanks for their excellent works.
