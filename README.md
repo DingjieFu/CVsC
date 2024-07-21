@@ -38,6 +38,7 @@ pip install -r requirements.txt
 🌟 **Note: You can download the datasets by following the instructions in the '[dataset](https://github.com/DingjieFu/CVsC/tree/main/data/dataset)' directory**
 ```
 CVsC/
+├── data
 │   ├── attribute
 │   ├── dataset
 │   │   ├── AWA2
