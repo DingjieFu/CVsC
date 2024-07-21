@@ -73,6 +73,6 @@ python train.py --dataset CUB --backbone Resnet --inputsize 224 # after finishin
 python train.py --dataset CUB --backbone Resnet --inputsize 224 --is_end2end
 ```
 ## 📑Acknowledgement
-The implementation is based on the repos: [DAZLE]([https://github.com/dyh127/RFNet](https://github.com/hbdat/cvpr20_DAZLE)), thanks for their excellent works.
+The implementation is based on the repos: [DAZLE](https://github.com/hbdat/cvpr20_DAZLE), thanks for their excellent works.
 
 
