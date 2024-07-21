@@ -2,22 +2,26 @@
 <h1> CVsC [ACM MM'24]🎉 </h1>
 <h3> Causal Visual-semantic Correlation for Zero-shot Learning </h3>
 
-[Junjie Shi](https://github.com/Jun-Jie-Shi)<sup>1</sup> ,[Caozhi Shang](https://github.com/Shangcz1015)<sup>1</sup> ,[Zhaobin Sun](https://github.com/szbonaldo)<sup>1</sup> ,[Li Yu](https://eic.hust.edu.cn/professor/yuli/)<sup>1</sup> ,[Xin Yang](https://sites.google.com/view/xinyang/home)<sup>1</sup> ,[Zengqiang Yan](https://mia2i.github.io/home/)<sup>1 :email:</sup>
+[Shuhuang Chen]()<sup>1 \*</sup> ,[Dingjie Fu](https://github.com/DingjieFu)<sup>1 \*</sup> ,[Shiming Chen](https://shiming-chen.github.io/)<sup>2</sup> ,[Shuo Ye]()<sup>1</sup> ,[Wenjin Hou]()<sup>1</sup> ,[Xinge You]()<sup>1 \#</sup>
 
-<sup>1</sup>  Huazhong University of Science and Technology, (<sup>:email:</sup>) corresponding author.
+<sup>1</sup> Huazhong University of Science and Technology, <sup>2</sup> Mohamed bin Zayed University of AI 
 <br>
-
-#### 1.Introduction
-
-
-
+(\*) co-first author,  (\#) corresponding author
+<br>
+</div>
 
 
-
+## 1.Introduction
 
 
 
-#### 2.Get started
+
+
+
+
+
+
+## 2.Get started
 
 - **Download dataset，following the structure below:**
 
