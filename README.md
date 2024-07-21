@@ -25,13 +25,17 @@
 
 ## 💪Getting Started
 <h3> • Installation </h3>
-```
-git clone https://github.com/
-cd 
-```
 
+```
+git clone git@github.com:DingjieFu/CVsC.git
+cd CVsC
+conda create -n CVsC python=3.8.18
+conda activate CVsC
+pip install -r requirements.txt
+```
+<h3> • Data Preparation </h3>
 
-- **Download dataset，following the structure below**
+🌟 **Note: You can download datasets following the instructions in [./data](https://github.com/DingjieFu/CVsC/tree/main/data)**
 ```
 CVsC/
 │   ├── attribute
