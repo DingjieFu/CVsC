@@ -2,7 +2,7 @@
 <h1> CVsC [ACM MM'24]🎉 </h1>
 <h3> Causal Visual-semantic Correlation for Zero-shot Learning </h3>
 
-[Shuhuang Chen]()<sup>1 *︎</sup> ,[Dingjie Fu](https://github.com/DingjieFu)<sup>1 *︎</sup> ,[Shiming Chen](https://shiming-chen.github.io/)<sup>2</sup> ,[Shuo Ye](https://github.com/SYe-hub)<sup>1</sup> ,[Wenjin Hou](https://github.com/Houwenjin)<sup>1</sup> ,[Xinge You](https://bmal.hust.edu.cn/EN.htm)<sup>1 ✉</sup>
+[Shuhuang Chen](https://github.com/shchen0001)<sup>1 *︎</sup> ,[Dingjie Fu](https://github.com/DingjieFu)<sup>1 *︎</sup> ,[Shiming Chen](https://shiming-chen.github.io/)<sup>2</sup> ,[Shuo Ye](https://github.com/SYe-hub)<sup>1</sup> ,[Wenjin Hou](https://github.com/Houwenjin)<sup>1</sup> ,[Xinge You](https://bmal.hust.edu.cn/EN.htm)<sup>1 ✉</sup>
 
 <sup>1</sup> Huazhong University of Science and Technology, <sup>2</sup> Mohamed bin Zayed University of AI 
 <br>
@@ -14,7 +14,7 @@
 ## 🤓Overview
 <details>
 
-### • Abstract
+### • Motivation
 
 <div align="center"> <img src="assets/motivation.png"/> </div>
 
