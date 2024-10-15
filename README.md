@@ -94,3 +94,7 @@ python train.py --dataset CUB --backbone Resnet --inputsize 224 --is_end2end
 ```
 ## 📑Acknowledgement
 The implementation is based on the repo [DAZLE](https://github.com/hbdat/cvpr20_DAZLE), thanks for their excellent works.
+
+## ✨Citation
+If you find CVsC is useful in your research or applications, welcome to cite our paper and give us a star 🌟.
+```bibtex
