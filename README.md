@@ -98,3 +98,8 @@ The implementation is based on the repo [DAZLE](https://github.com/hbdat/cvpr20_
 ## ✨Citation
 If you find CVsC is useful in your research or applications, welcome to cite our paper and give us a star 🌟.
 ```bibtex
+@inproceedings{chen2024causal,
+  title={Causal Visual-semantic Correlation for Zero-shot Learning},
+  author={Chen, Shuhuang and Fu, Dingjie and Chen, Shiming and Hou, Wenjin and You, Xinge and others},
+  booktitle={ACM Multimedia 2024}
+}
