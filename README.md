@@ -100,6 +100,8 @@ If you find CVsC is useful in your research or applications, welcome to cite our
 ```bibtex
 @inproceedings{chen2024causal,
   title={Causal Visual-semantic Correlation for Zero-shot Learning},
-  author={Chen, Shuhuang and Fu, Dingjie and Chen, Shiming and Hou, Wenjin and You, Xinge and others},
-  booktitle={ACM Multimedia 2024}
+  author={Chen, Shuhuang and Fu, Dingjie and Chen, Shiming and Ye, Shuo and Hou, Wenjin and You, Xinge},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={4246--4255},
+  year={2024}
 }
